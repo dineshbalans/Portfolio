@@ -29,6 +29,7 @@ import VS_CODE from "./assets/img/skills/vscode.svg";
 import INTELLIJ_IDEA from "./assets/img/skills/intellij-idea.svg";
 
 // Project Source
+import TRONMART from "../src/assets/img/img/tronmart.png";
 import COURSEVISTA from "../src/assets/img/img/coursevista.png";
 import LINKEDIN from "../src/assets/img/img/linkedin.png";
 import TODO from "../src/assets/img/img/todo.png";
@@ -170,6 +171,14 @@ export const skills = [
 ];
 
 export const projects = [
+  {
+    id: "project_0",
+    title: "Tronmart",
+    src: TRONMART,
+    desc: "Explore a seamless platform for discovering and acquiring the latest electronic gadgets and innovations.",
+    github: "https://github.com/dineshbalans/tronmart",
+    live: "https://tronmart-dineshbalan.vercel.app/",
+  },
   {
     id: "project_1",
     title: "CourseVista",
