@@ -27,7 +27,7 @@ export const About = () => {
               <p className="mb-8 text-justify lgl:text-left">
                 Hello, I'm Dinesh Balan, a dedicated Java Full Stack Developer
                 with a passion for creating robust and efficient web
-                applications. With six months of experience , I've had the
+                applications. I've had the
                 privilege of working across the entire stack, from crafting
                 responsive front-end interfaces to building scalable back-end
                 systems.

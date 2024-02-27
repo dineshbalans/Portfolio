@@ -30,6 +30,7 @@ import INTELLIJ_IDEA from "./assets/img/skills/intellij-idea.svg";
 
 // Project Source
 import TRONMART from "../src/assets/img/img/tronmart.png";
+import HOSTIT from "../src/assets/img/img/hostit.png"
 import COURSEVISTA from "../src/assets/img/img/coursevista.png";
 import LINKEDIN from "../src/assets/img/img/linkedin.png";
 import TODO from "../src/assets/img/img/todo.png";
@@ -175,9 +176,17 @@ export const projects = [
     id: "project_0",
     title: "Tronmart",
     src: TRONMART,
-    desc: "Explore a seamless platform for discovering and acquiring the latest electronic gadgets and innovations.",
+    desc: "Explore a seamless platform for discovering and acquiring the latest electronic gadgets.",
     github: "https://github.com/dineshbalans/tronmart",
     live: "https://tronmart-dineshbalan.vercel.app/",
+  },
+  {
+    id: "project_01",
+    title: "HostIT",
+    src: HOSTIT,
+    desc: "Discover a dynamic platform for effortless hosting solutions and unparalleled online presence.",
+    github: "https://github.com/dineshbalans/hosting",
+    live: "https://hostit-dineshbalan.vercel.app/",
   },
   {
     id: "project_1",
